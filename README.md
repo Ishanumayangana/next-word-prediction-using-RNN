@@ -15,4 +15,3 @@ Requirements
     Pandas
     Matplotlib (for visualization, optional)
 
-Installation
